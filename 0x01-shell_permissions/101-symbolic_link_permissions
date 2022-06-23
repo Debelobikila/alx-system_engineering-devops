@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff *
+chmod 755 $(find . -type d)
